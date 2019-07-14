@@ -1,3 +1,9 @@
+Please use the following link to view my webpage
+
+https://danicacodes.github.io/web/
+
+
+
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
 ## Background
